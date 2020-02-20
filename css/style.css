@@ -89,6 +89,7 @@ body{
 .show button{
 	background-color: #accdda;
 	border: none;
+	cursor: pointer;
 }
 .show button:hover{
 	color: red;
@@ -325,10 +326,12 @@ body{
 .prev{
 	left: 50px;
 	top: 90px;
+	cursor: pointer;
 }
 .next{
 	right: 50px;
 	top: 90px;
+	cursor: pointer;
 }
 .gallery h3{
 	color: #ffffff;
@@ -748,6 +751,7 @@ body{
 	font-size: 10px;
 	color: #ffffff;
 	opacity: 24;
+	cursor: pointer;
 }
 .get-in-touch input{
 	color: #19242a;
